@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|c:\\users\\radek\\source\\repos\\lab4_pt\\lab4_pt\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\lab4_pt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\lab4_pt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\carbindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\carbindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\outputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\outputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|C:\\Users\\radek\\source\\repos\\Lab4_PT\\lab4_pt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E5B0E8E-56D8-4622-B573-72604189E473}|Lab4_PT\\Lab4_PT.csproj|solutionrelative:lab4_pt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\DataController.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\DataController.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\DataController.cs",
+              "RelativeToolTip": "Lab4_PT\\DataController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:46:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\App.xaml.cs",
+              "RelativeToolTip": "Lab4_PT\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:44:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab4_PT\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:43:50.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab4_PT\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\MainWindow.xaml",
+              "RelativeToolTip": "Lab4_PT\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-04-04T12:21:06.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab4_PT\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAwFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:20:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Engine.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\Engine.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Engine.cs",
+              "RelativeToolTip": "Lab4_PT\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:49:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutputWriter.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\OutputWriter.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\OutputWriter.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\OutputWriter.cs",
+              "RelativeToolTip": "Lab4_PT\\OutputWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:46:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarBindingList.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\CarBindingList.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\CarBindingList.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\CarBindingList.cs",
+              "RelativeToolTip": "Lab4_PT\\CarBindingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:46:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Car.cs",
+              "RelativeDocumentMoniker": "Lab4_PT\\Car.cs",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Car.cs",
+              "RelativeToolTip": "Lab4_PT\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-04T12:45:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab4_PT.csproj",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Lab4_PT.csproj",
+              "RelativeDocumentMoniker": "Lab4_PT\\Lab4_PT.csproj",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\Lab4_PT.csproj",
+              "RelativeToolTip": "Lab4_PT\\Lab4_PT.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T10:10:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\App.xaml",
+              "RelativeDocumentMoniker": "Lab4_PT\\App.xaml",
+              "ToolTip": "C:\\Users\\radek\\source\\repos\\Lab4_PT\\Lab4_PT\\App.xaml",
+              "RelativeToolTip": "Lab4_PT\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-04-04T12:43:49.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
